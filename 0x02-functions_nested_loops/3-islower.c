@@ -1,10 +1,13 @@
 #include "main.h"
 
 /**
- * _islower -description, line
+ * _islower - Short description, line
+ *
  * @c: container for value to be compared
+ *
  * Retur: always 0
  */
+
 int _islower(int c)
 {
 	if (c > 'a' && c < 'z')

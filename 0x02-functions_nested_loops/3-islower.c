@@ -1,11 +1,11 @@
 #include "main.h"
 
 /**
- * _islower - Short description, line
+ * _islower - short description
  *
  * @c: container for value to be compared
  *
- * Retur: always 0
+ * Return: Always 0
  */
 
 int _islower(int c)

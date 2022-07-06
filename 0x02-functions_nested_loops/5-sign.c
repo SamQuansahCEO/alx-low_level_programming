@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * print_sign to return 0, if n is zero, +, if n>1, and - if n < 1
+ * print_sign - return 0 return 0 letter not lowercase, 1 letter lowercase
  *
  * @n : number checker
  * Return: 0 or 1
